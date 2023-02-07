@@ -9,7 +9,8 @@ TODO:
 
 const USERNAME = '<username>';
 const PASSWORD = '<password>';
-const AUTH_TOKEN = null; // <auth_token>
+
+const AUTH_TOKEN = null; // <auth_token> this can be repository access token or any other token
 
 const Authorization_Header = AUTH_TOKEN 
     ? `Bearer ${AUTH_TOKEN}`
