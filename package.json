@@ -1,0 +1,22 @@
+{
+  "name": "bitbucket_package_update_redoc",
+  "version": "1.0.0",
+  "description": "scripts to automatically create pull requests with updated package.json",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanPidkostelnyi/bitbucket_package_update_redoc.git"
+  },
+  "author": "Roman Pidkostlenyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanPidkostelnyi/bitbucket_package_update_redoc/issues"
+  },
+  "homepage": "https://github.com/RomanPidkostelnyi/bitbucket_package_update_redoc#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
